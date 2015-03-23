@@ -47,4 +47,3 @@ public class Parser {
         return (symbols.get(symbols.size() - 1).equals("*") && symbol.equals("+"));
     }
 }
-//j

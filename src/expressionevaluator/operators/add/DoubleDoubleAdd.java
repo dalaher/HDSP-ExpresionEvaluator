@@ -13,4 +13,3 @@ public class DoubleDoubleAdd extends BinaryOperator {
     }
 
 }
-//j

@@ -13,4 +13,3 @@ public class DoubleDoubleDivision extends BinaryOperator {
     }
 
 }
-//j

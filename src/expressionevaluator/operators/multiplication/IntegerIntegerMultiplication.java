@@ -13,4 +13,3 @@ public class IntegerIntegerMultiplication extends BinaryOperator {
     }
 
 }
-//j

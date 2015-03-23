@@ -12,4 +12,3 @@ public class DoubleIntegetMultiplication extends BinaryOperator {
     }
 
 }
-//j

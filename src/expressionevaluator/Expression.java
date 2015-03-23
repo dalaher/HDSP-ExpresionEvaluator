@@ -5,4 +5,3 @@ public interface Expression <Type> {
     public Type calculate();
     
 }
-//j

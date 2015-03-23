@@ -13,4 +13,3 @@ public class IntegerDoubleAdd extends BinaryOperator {
     }
 
 }
-//j
